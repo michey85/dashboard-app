@@ -68,7 +68,7 @@ body {
 }
 
 .card {
-  background-color: var(--grey-100);
+  background-color: white;
   border-radius: var(--radii);
   box-shadow: var(--shadow);
   border-left: 5px solid var(--grey-100);
